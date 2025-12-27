@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Magical AI Christmas Tree",
+  "description": "An interactive 3D Christmas experience using computer vision to control a particle tree with hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
